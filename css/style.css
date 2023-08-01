@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.table-content{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    
+
+    
+}
+table{
+    width: 100%;
+    padding: 10px;
+    border-collapse: collapse;
+    background: rgb(241, 240, 240);
+    
+
+}
+thead tr th{
+    text-align: start;
+}
+td,th{
+    border: 1px solid #000;
+    padding: 10px;
+}
